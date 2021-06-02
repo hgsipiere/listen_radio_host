@@ -1,0 +1,23 @@
+{
+        "trans":
+        [
+		"trans1.ogg",
+		"trans2.ogg"
+		
+        ],
+        "songs_combo":
+        [
+                ["song1.mp3","song1_combo"],
+		        ["song2.mp3",null],
+		        ["song3.mp3",null],
+		        ["song4.mp3","song4_combo.mp3"],
+		        ["song5.mp3",null]
+        ],
+        "intros":
+        [
+                "intro1.ogg",
+                "intro2.ogg"
+        ],
+        "min_b1_songs": 4,
+        "max_b1_songs": 7
+}
